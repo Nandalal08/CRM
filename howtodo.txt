@@ -1,0 +1,5 @@
+BarChart.jsx
+
+
+installed barchart.js from react
+
