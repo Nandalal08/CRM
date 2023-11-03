@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -39,3 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # CRM
 this is customer relational management using next Js ( functions - dashboard, customer page, shopping details, settings.) get data from data.js
 >>>>>>> origin/main
+=======
+# CRM
+this is customer relational management using next Js ( functions - dashboard, customer page, shopping details, settings.) get data from data.js
+>>>>>>> 7b3e60a75890a03c2a9d0bb479366fa0bb5229d0
