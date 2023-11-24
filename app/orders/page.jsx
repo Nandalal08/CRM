@@ -22,10 +22,15 @@ function page() {
                     <span className='hidden md:grid'>Last Orders</span>
                     <span className='hidden sm:grid'>Method</span>
 
-                 </div>
+                 </div> 
 
                  <div>
-                    <ul>
+                    <ul>   
+                        <ul>
+                            <li>
+                                
+                            </li>
+                        </ul>
 
                        { data.map((order,id)=>(
 
